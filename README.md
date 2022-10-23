@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itsdaniyalahsen
+- 👀 I’m interested in Building Simulation Software, especially for Mechanical Engineers
+- 🌱 I’m currently learning PyTorch
+- 📫 How to reach me Gmail: itsthaniyal@gmail.com
